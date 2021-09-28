@@ -1,8 +1,34 @@
-/* navbar */
+:root {
+    --bs-dark-rgb: 44,62,80;
+    --bs-success-rgb: 26,188,156;
+}
+
+/* header navbar */
+
 .my-h6 {
     margin-bottom: 0;
 }
-
 .my-ul {
     margin-bottom: 0px;
+}
+/* header hero */
+
+.icon-nopadding {
+    padding: 0;
+}
+
+.stars-line {
+    width: 100%;
+    background-color: white;
+    height: 2px;
+}
+
+/* main portfolio */
+
+.line-black {
+    background-color: rgb(44, 62, 80);
+}
+
+.img-b-radius {
+    border-radius: 20px;
 }
