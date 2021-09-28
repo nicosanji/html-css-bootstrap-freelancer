@@ -32,3 +32,19 @@
 .img-b-radius {
     border-radius: 20px;
 }
+
+/* main form*/
+
+.my-form {
+    border-top: white;
+    border-left: white;
+    border-right: white;
+    border-radius: 0;
+    margin: 0.5rem 0;
+    transition: none;
+}
+
+.my-form:focus {
+    border-color: rgb(58, 84, 109);
+    box-shadow: none;
+}
