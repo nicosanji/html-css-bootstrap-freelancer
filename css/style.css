@@ -48,3 +48,28 @@
     border-color: rgb(58, 84, 109);
     box-shadow: none;
 }
+
+/* footer top */
+
+.my-bg-footer {
+    background-color: rgb(58, 84, 109);
+}
+
+.my-p-footer {
+    margin-bottom: 0;
+}
+
+.my-span {
+    color: rgb(26,188,156);
+}
+
+.my-footer-icon {
+    width: 30px;
+    height: 30px;
+}
+
+/* footer bottom */
+
+.my-last-p {
+    font-size: 0.8rem;
+}
