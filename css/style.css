@@ -11,6 +11,15 @@
 .my-ul {
     margin-bottom: 0px;
 }
+
+header a .my-h6 i{
+    transition: transform 0.5s ;
+}
+
+header a .my-h6 i:hover {
+    transform: scale(1.25);
+}
+
 /* header hero */
 
 .icon-nopadding {
